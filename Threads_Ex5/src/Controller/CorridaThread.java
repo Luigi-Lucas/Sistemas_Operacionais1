@@ -38,7 +38,6 @@ public class CorridaThread extends Thread {
 				e.printStackTrace();
 			}
 		}
-
 		if (vencedor.getText().isEmpty()) {
 			vencedor.setText(carro.getText());
 			if (carro.getText() == "Carro 1") {

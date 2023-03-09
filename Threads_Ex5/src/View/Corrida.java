@@ -118,6 +118,6 @@ public class Corrida extends JFrame {
 		};
 		
 		btnCorrer.addActionListener(inicia);
-		
+
 	}
 }
